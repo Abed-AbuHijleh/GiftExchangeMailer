@@ -28,6 +28,8 @@ Setup a .env file with:
  </li>
 </ul>
 
+NOTE: You will have to find an email host who allows you to send emails from a script. After googling and playing with some setting I built an outlook account for this script and set it up to allow for this.
+
 The SEND_PASSWORD will be a password that has to be placed into a query in order to do any large scale actions (sending out emails or changing aspects about the exchange). Is it the most secure way of doing this? No. Does that matter? Also no. This is intended to be hosted on a local server to setup a gift exchange without any hassle.
 
 <h4>
