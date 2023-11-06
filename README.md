@@ -47,6 +47,7 @@ All routes except for "/" and "/new-entry" require a password in the queries.
  "/new-entry"
 </h5>
 This route takes queries name, email, and items. Fill these in to add a user to the list. The items query is a list of items (use an & sign to separate items)
+
 Sidenote: use %20 for spaces and %40 for the @ symbol
 
 <h5>
