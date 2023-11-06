@@ -40,7 +40,7 @@ All routes except for "/" and "/new-entry" require a password in the queries.
 
 <h5>
  "/"
-</h5
+</h5>
  This route is just to check for a connection to the API.
  
 <h5>
